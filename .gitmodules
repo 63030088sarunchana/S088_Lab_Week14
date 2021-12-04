@@ -22,3 +22,6 @@
 	path = plugin4
 	url = https://github.com/63030088sarunchana/plugin4.git
 	ignore = dirty
+[submodule "pluginsarunchana"]
+	path = pluginsarunchana
+	url = https://github.com/63030088sarunchana/pluginsarunchana.git
