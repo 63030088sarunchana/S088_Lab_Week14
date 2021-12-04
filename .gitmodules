@@ -25,3 +25,4 @@
 [submodule "pluginsarunchana"]
 	path = pluginsarunchana
 	url = https://github.com/63030088sarunchana/pluginsarunchana.git
+	ignore = dirty

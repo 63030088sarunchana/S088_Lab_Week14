@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin3", "..\plugin3\Plugi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin4", "..\plugin4\Plugin4\Plugin4.csproj", "{904CD00C-4CDF-4913-A330-9F60A9EAAD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluginsarunchana", "..\Pluginsarunchana\Pluginsarunchana.csproj", "{E22076D7-B9FA-4B8A-A395-1541C04D8C28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluginsarunchana", "..\pluginsarunchana\Pluginsarunchana\Pluginsarunchana.csproj", "{E22076D7-B9FA-4B8A-A395-1541C04D8C28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
